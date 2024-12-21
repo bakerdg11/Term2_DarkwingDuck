@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Barrier
+  - Enemy
+  - Collectible
+  - EnemyProjectile
+  - Squish
+  - PlayerProjectile
+  - Spike
+  - GameComplete
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Gound
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FarBackground
+    uniqueID: 1270216207
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayArea
+    uniqueID: 2722030849
+    locked: 0
+  - name: Foreground
+    uniqueID: 1350639829
+    locked: 0

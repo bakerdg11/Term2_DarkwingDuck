@@ -1,0 +1,4788 @@
+fileFormatVersion: 2
+guid: 6373ecfd42b79374584abdf9263f0ba6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 275
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4167
+        width: 128
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286d144d5f55714abf166a799eecc25
+      internalID: -1487962403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4167
+        width: 127
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837fbf4e2fd2ad641acf4f7d54c849bc
+      internalID: -547933086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 4152
+        width: 129
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6035fd800da4b4990fa7cfd22ac2eb
+      internalID: -134349469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 4152
+        width: 130
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d4a084c25eac4a93b570c7425cf24
+      internalID: 1175068327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PointsDiamond
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4143
+        width: 130
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed9d5016964974a9272afc604a7bac
+      internalID: -1593746396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PointsGold
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 4150
+        width: 130
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d4776fa1e6b36438adbf11338e4c72
+      internalID: 1166910957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthUp
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 4143
+        width: 130
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb5022da085e1468b2240d05733316
+      internalID: 1980735071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_7
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 4143
+        width: 68
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a116f869e5e374dbbb919906b9eb4c
+      internalID: 933652613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_8
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 4143
+        width: 112
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ffb0103b91ff48bbacded39c695fe
+      internalID: 1387767639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_9
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 4143
+        width: 68
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d5ac599d43214eace6546d56ee3c2
+      internalID: -234903975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUp
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 4134
+        width: 130
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e92c7a3451f914ebc56a001d09aec6
+      internalID: 269148165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_11
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 4158
+        width: 42
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf825cdc6d6174ebefdb8ba3a22f8d
+      internalID: 212105755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_12
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 4158
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03111a15e556a8f4aaeceb7b5c0d17ad
+      internalID: -619841271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform1
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 4205
+        width: 253
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9594410b21b8dc4899978a1394bcea0
+      internalID: 1314391775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform2
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 3943
+        width: 253
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea2c6794052e147a13c597d83eda0a
+      internalID: -464261057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3772
+        width: 130
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe77743e99344b4793ddeee81dafd01
+      internalID: 181215958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3778
+        width: 128
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b8085d660c9374b9a1b3ae684e2d35
+      internalID: -77131422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3879
+        width: 128
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af22d6740c52f4a969aaf0d94fb7b9
+      internalID: -498926934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_18
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3820
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685f90dc514b1444b12bc9c9b91af2d
+      internalID: 960398945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_19
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 3879
+        width: 128
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac083d51dca3b4880d9e1d052f4412
+      internalID: -512376492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_20
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3879
+        width: 128
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e0906020a151e4690eeb5623902fa0
+      internalID: -1563808713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_21
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3879
+        width: 129
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ff339c838e5f4fa0e04fd8f1b5ec8
+      internalID: 2074945031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_22
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 3842
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c06b68db57307749a14076f73611e03
+      internalID: -1121964540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_23
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 3835
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a221952c71e9c4caf6adc9dc24ea9c
+      internalID: 845897323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_24
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3824
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b9ddc12ba5554e9bd1e6f33537693
+      internalID: -994809711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_25
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3772
+        width: 128
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574db7d197350be4ea4ae52c2e5ce17c
+      internalID: -798166804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_26
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3772
+        width: 129
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e840144e4a144d4ea3edf2b505a2ffa
+      internalID: 1022854813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_27
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 3807
+        width: 182
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac54b8b85aa7840aebb04f97bff845
+      internalID: 729457329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_28
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3802
+        width: 191
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a8559581bd64144be61347b95243b0
+      internalID: 192655808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3772
+        width: 127
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810e313245d840d438b1b703f0810b28
+      internalID: -457140356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_30
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 3772
+        width: 128
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43dd253753ca448bc064269c69952e
+      internalID: -566181559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform3
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3655
+        width: 253
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ed79c0dacdaad469bea9dc265261ec
+      internalID: -1516068692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_32
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 3462
+        width: 130
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba899241fc12b645949514505d49ded
+      internalID: 1997563941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_33
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3590
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4c4f75e1cc9f4fac9709260f9c9a0
+      internalID: -979281723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_34
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 3473
+        width: 123
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adcffb3d9dc6a1479bd59d2def96b6a
+      internalID: 1298799761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_35
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 3022
+        width: 127
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e939aa4f3fe4898498162b56c134d086
+      internalID: 297024772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_36
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3495
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f43b447eb8abf4a9d94b96e41df842
+      internalID: 1841833703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_37
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 3469
+        width: 114
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373b7a8ce248c54a94320dd68f0c161
+      internalID: 1956364083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_38
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 3557
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8253f5204de10048b31afa1cfeebd86
+      internalID: -979958536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_39
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3557
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9abf60e2e9694db0aec041bfadfa9
+      internalID: -448664020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3486
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d1df77b4c96e48802fb3a2ad23566
+      internalID: 312863135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3493
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5322cb6a73d504bbeeac067328efbd
+      internalID: 443512478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3512
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4374be84b7a3db84eb0481b874fb29d2
+      internalID: -2110105522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_43
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3490
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655c8b6fc8be4a549805b770e8ce81c4
+      internalID: 605475017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_44
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 3523
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e580ff80b26a248a60b4377c0cbb12
+      internalID: 2143085930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_45
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 3521
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa16092faa982449baf8232b12d965
+      internalID: -854888636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_46
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 3479
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d5bd814e4b29842b5077cb31b47bf7
+      internalID: 1722691360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_47
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3479
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbc0f11f50cd8644a99ccbe54bf2e67
+      internalID: -1218400110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform4
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3387
+        width: 253
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67b2218a5bfb041bcac922b48bd2db
+      internalID: 1353627314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_49
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3473
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9803c6dde07e154aa314256e31b6700
+      internalID: 1420301160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tire1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3084
+        width: 188
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1791369511b4ec448f08be9831f5169
+      internalID: 1780918549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tire2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3093
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af945ed32681b2a4b901cf257e696189
+      internalID: 1525632488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_52
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3209
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd3cdb6ca94fa43aff718f76a4f37f
+      internalID: 2138707197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_53
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3209
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd992761760754b964cb8e20b7b160
+      internalID: -1305669970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_54
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3194
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab897a310f9d0e48811c068c82afc99
+      internalID: 1034582031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 3200
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819d6c7b4e9a0e449dc251f4d8525ab
+      internalID: 173093536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_56
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 3194
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b2973bc3e7464b8234afca4c62169
+      internalID: -447131896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingSlide1
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3099
+        width: 129
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f998248c27c2cb4dba3e231bfd3ea92
+      internalID: -119699941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingSlide2
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 3099
+        width: 129
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60751f4f2f7d440b37490f3380acaa
+      internalID: 688427862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3075
+        width: 128
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5293c6cd84e9a4097b4b1b052f41f4
+      internalID: -187145492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform5
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3093
+        width: 251
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a243d0bab0c6524b9454f5ad32dacef
+      internalID: -1965298267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_61
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3121
+        width: 128
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c7f1f0866849f4187ebc7a2244becb
+      internalID: 60770272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_62
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3115
+        width: 125
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e62d0d2d8db9541b9c8e3b4d1342a7
+      internalID: -773625846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_63
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 3130
+        width: 129
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d2f555c0df8f4da6cbe6b260b0659
+      internalID: -2139199026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banana
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 3082
+        width: 129
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbddc500debdb247bc51fdf5a3f4e77
+      internalID: 1218970746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_65
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3069
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f36c5ef8925c4580cc7d254ffa574
+      internalID: -834459223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_66
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3069
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de24e949dac83498e6c3d38f2a289e
+      internalID: -1505348469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_67
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3077
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce87a4854e58624b9b0b7b33739af94
+      internalID: -2065761482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_68
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 3053
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b18f07efb4744cb48c8c0f4b8d195
+      internalID: -1631138571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_69
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 3077
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcc1402e7d45c142b0510ef1a4b9d62
+      internalID: -311548708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2704
+        width: 127
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931745a4ba5c66e48aff936115c9b05a
+      internalID: -1428761577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_71
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2737
+        width: 129
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad87d27e26aec498ee2cb36b3e1875
+      internalID: 1690708807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_72
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2737
+        width: 66
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc2b220912c644c988ffb82ab8288d
+      internalID: -2096477827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_73
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2713
+        width: 127
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f103343225f675438616748989037ea
+      internalID: 1732918688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_74
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2697
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e5142340787504387042f82c183df2
+      internalID: -1439130063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_75
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2620
+        width: 189
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a08ac3cd1097f438d509074bf76881
+      internalID: -1705908815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2326
+        width: 110
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c545b2eca0a8fb14b87841a95fdcfe7c
+      internalID: -413825836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2453
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a488b3162cf17a4d83721a9f2c1cf07
+      internalID: 1666294580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_78
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2458
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42255798998c01c4db35b52ba24e408c
+      internalID: -983058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_79
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2447
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690db8847098ae449c290a4675cfed1
+      internalID: 2032020061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_80
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2451
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b8b3e35e771a42a157f5a5604b3db
+      internalID: 1576636637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_81
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2444
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83759047752008943a5f08667b5dbd46
+      internalID: 329991255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_82
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2451
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f914e3f693cca2c4192456c531eee89f
+      internalID: -509454076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_83
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2412
+        width: 235
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff868781c8b9646a4dfdd2b7bd558f
+      internalID: -965080991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_84
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 2209
+        width: 316
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f3a679faaced4ba3e2c85dfd642b2
+      internalID: -762303195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_85
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2209
+        width: 314
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b012f37e31dd6548ae37a4a20a26630
+      internalID: -1859200019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2407
+        width: 52
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ef3b09f1f8e14ea362b022a65d72a
+      internalID: 278737872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2401
+        width: 54
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0501ff48f75fa44bc5c4f6cc4f5f5c
+      internalID: -1832729198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_88
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2436
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c2dcc00c4feb458341b3f73c204d1
+      internalID: 51000487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_89
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2407
+        width: 64
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb616a4b57cd6c4491c77d6c4aea354
+      internalID: -184362882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_90
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2401
+        width: 55
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70249c2c12965294eb4838294c8d3c4b
+      internalID: 307610200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_91
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2436
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff7c4f289ce1f4387be22c7337be6c
+      internalID: -1201402038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_92
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2407
+        width: 66
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03614d10a70a5549865d1f97041e7ee
+      internalID: -884653780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_93
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2240
+        width: 235
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fbcdb6d89e72f4dba07db1ab3f21ac
+      internalID: 262486805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2343
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a68ece43a32c4f9f743e7aecb54b8
+      internalID: 733026760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2313
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98bd742cb781a44b7e72296d3f51c7
+      internalID: -1280530843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_96
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2232
+        width: 196
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34851cf5bc2f5348a4022ac890af63b
+      internalID: -1657838026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_97
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2310
+        width: 151
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc58fe5e359dd3a4394e1bb4a91538a3
+      internalID: 2009879562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_98
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2232
+        width: 137
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d07d60c44127044b61d33ace9450cf
+      internalID: -946469152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_99
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2348
+        width: 116
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcaf245f240e9246b3fb0f1e3979fd8
+      internalID: 985777885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_100
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2332
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02addca94e54f18429ac7db137907715
+      internalID: -634243875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_101
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2249
+        width: 90
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9772936b7f3235a44b2fba3686a512a0
+      internalID: -1695468178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_102
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2295
+        width: 129
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7f35b573133c41bee8094d01397f3
+      internalID: 1815579482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_103
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2310
+        width: 130
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81e01f5a358504e9c75e1621b93f0b
+      internalID: -62589054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_104
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2236
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385072b7fd60ea478f9ee6f4cbdeedf
+      internalID: 17935516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_105
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2236
+        width: 63
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f8b965e5f7c546af0da455d99d393
+      internalID: 1972105719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_106
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2236
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850bc43e9d34d3c4eba4209a2900f55f
+      internalID: -96688155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_107
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2260
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06c780db4737c49be16951779f83f0
+      internalID: -1633588081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_108
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2317
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765074d451601f0458f318052ad19efb
+      internalID: -590894827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_109
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2251
+        width: 83
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120473398c11cf478e811e605c30f30
+      internalID: 579987517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Help1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1878
+        width: 191
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f181591eaf8ca4b8c99b1df16a7cc1
+      internalID: -32010749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Help2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1871
+        width: 191
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f4022d3cd3c14b8d003c28d7a8cc4
+      internalID: 584074929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_116
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1831
+        width: 158
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824e0ab6af03734eae78000b087b5c0
+      internalID: -575596722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_117
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1856
+        width: 110
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb89f5093da4942878ec1c94f02bdf
+      internalID: -296671385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_118
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1840
+        width: 64
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ce56eb787f044a9991f97d2a4817d
+      internalID: 1171728007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_119
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1251
+        width: 359
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608aa88ff92db8b4ba34fdb74612ab5a
+      internalID: -1489943718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_120
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1267
+        width: 358
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31444e5751a745d4596d079d4b59d098
+      internalID: -696211049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_121
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1236
+        width: 296
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ee34ddd7cf6b4abc54813bed6c262
+      internalID: -1634607206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_122
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1205
+        width: 275
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b92f9fc8a34434585bec22df9306d5
+      internalID: -1345131369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_123
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1513
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e7a8d414768c40bd6ef698e49658c
+      internalID: 1239564829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_124
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 1392
+        width: 178
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546d7220689232f40a05c4d71ee7dcd4
+      internalID: -1791882018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_125
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1392
+        width: 187
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147764665d339a4a84e6084690b89d3
+      internalID: -1483295921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_126
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1478
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734fc91321f28b428427dd6e743fc30
+      internalID: 1771229205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_127
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 1319
+        width: 123
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1276c5ed55fb5245863ee2be23ac337
+      internalID: 982418464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_128
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1462
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b526756e6994941b0d48a2e921ca94
+      internalID: -950086524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_129
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 1423
+        width: 48
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a27c796c389b1446bcbb829afc49da3
+      internalID: 806917007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_130
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1449
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e963ab4e5d4f649aeeb4c00412f877
+      internalID: 91329643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_131
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1383
+        width: 127
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f823f89e0a27444be3eca8d37940fc
+      internalID: -1069917938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_132
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1322
+        width: 13
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8c4a976a52e54794586326864ad06
+      internalID: 737661589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_133
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1401
+        width: 52
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975af7e93a50d54d8d92d16f2bacb1b
+      internalID: -1448972958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_134
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 1421
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed2c55d4c1b05946b36995ed8253b44
+      internalID: 1060200904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_135
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1362
+        width: 68
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb41da6ece45184299f612de73a73a4
+      internalID: -1571967189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_136
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1374
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346663e9466ff0c4e98fabb39eb8cf94
+      internalID: -2004137204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_137
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1174
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907fef270d40e4f44a22431b6e2e73ce
+      internalID: 1054830183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_138
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1126
+        width: 57
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f86b6c76ddcde48b232c3942392da6
+      internalID: 1843447399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_141
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 981
+        width: 68
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc1ebeca6c0d8c468123367a7887169
+      internalID: -985365088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_142
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 981
+        width: 68
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69803f696213d3e41915dbe7c788e853
+      internalID: -208707895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_143
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 845
+        width: 367
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820aca3d934c854fb339fda26596876
+      internalID: -1761018870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_144
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 858
+        width: 68
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a841fd4cc8744e83cf45fb2eb1b06
+      internalID: 552982657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_145
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 858
+        width: 68
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ce9c4e0e3d6e4fb0fbd369317d743
+      internalID: -720093879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_146
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 539
+        width: 428
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a15947c0dd36424aafb128a6a84751e
+      internalID: -1188092128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_147
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 539
+        width: 439
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113cdd26c9b79894aa9c84222f116e59
+      internalID: 413957065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_148
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 548
+        width: 413
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f65e080bda4449a4ece34f111964e
+      internalID: -333491793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_149
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 794
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15951de7036a4b4499c432a4ae3b774b
+      internalID: -883929734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_150
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 794
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1001507939b34bb468629aa1f23d3
+      internalID: 1637411170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_151
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 794
+        width: 59
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936966185ed72a49ad2a75e0fda6945
+      internalID: -985168827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_152
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 794
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e063290d91e794ca26feb5a4bdbcfb
+      internalID: 492921130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_153
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 794
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d3b20f1ceb714d8912a1dd3d62ba9
+      internalID: -848505734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_154
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 733
+        width: 28
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f63934b6efb340b45cb27e1f4b782
+      internalID: 1133555432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_155
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 733
+        width: 58
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca616e1c7e04043ae7adce316cafba
+      internalID: 2002367794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_156
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 733
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd545d3d3de3c41873cc3a7b1c8af4
+      internalID: 717913695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_157
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 733
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951714ac4ca656946b372e06a2b52344
+      internalID: -951174379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_158
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 733
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ba8c0251383f4fa087c3c80e07431
+      internalID: 579723366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_159
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 733
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a61a6ef7283de4ca37eac7a26c99da
+      internalID: 337299844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_160
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 665
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f267de882a1b345bc9337922ae0d3b
+      internalID: -1979728264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_161
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 665
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d5453f269dd241bfd1c646ebfaea7
+      internalID: -1466893541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_162
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 665
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48184edaf4dd324c8c0441f9c3cef2c
+      internalID: -688195303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_163
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 601
+        width: 20
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a4e23ca9daa9478aa7b53476f147f
+      internalID: -970197155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_164
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 601
+        width: 81
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2899c479dfd54e88b44e6c8cedbd5
+      internalID: -910626087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_165
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 601
+        width: 19
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca1319548c6ff41a9de09bace636f0
+      internalID: 620678072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_166
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 542
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becb0e3e1205f02438e360602e99dcfa
+      internalID: 638010003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_167
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 542
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08faff30c6eb734e9d9ba3159d54557
+      internalID: -514303903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_168
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 542
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b4cb5021f88484e92e5087178b2224
+      internalID: 42510209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_169
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 445
+        width: 191
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd607b2ac5250e4eaca37565ec4746d
+      internalID: -332859359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_170
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 432
+        width: 164
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ba72066cb2e3c4bb529247cb701ef2
+      internalID: 439626508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_171
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 432
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ebf8154a6a3d48b1f753248eb40e3
+      internalID: 129288147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_172
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 432
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b396ce7729ff447adbcceb9ad02818
+      internalID: -1683834122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_173
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 432
+        width: 226
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5128e433b94b4c9847f8afcb2e26f
+      internalID: -259627047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_174
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 432
+        width: 50
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d4f8fdcbba59479ad5f4068d7fe03
+      internalID: -110207080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_175
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 432
+        width: 104
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef31b48ee01d5d4698b52cf539fee6c
+      internalID: -1771743288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_176
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 478
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75408e4b6f822ee43a00e2b95f1183f2
+      internalID: -1419691929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_177
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 478
+        width: 81
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b09e13264f1944583bccbfddfa57ec
+      internalID: 1718222757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_178
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 478
+        width: 19
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad253541d68b46d46aa5b50e17b49231
+      internalID: 1254340256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_179
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 416
+        width: 20
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84badeb4caf2d44cb0ea9b411791a86
+      internalID: -17528475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_180
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 416
+        width: 81
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87492a4c3b9ce7448a2037c3f1ef71e3
+      internalID: -549187260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_181
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 416
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb7d63dbaf0e1e45bb2de9f2950d420
+      internalID: -1627641380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_182
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 332
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ae470b627a5e46a4ab8773ce4344d
+      internalID: -113441304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_183
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 323
+        width: 73
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde51fd45e8cd62439038cb75e3c7caa
+      internalID: -1568827306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_184
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 323
+        width: 103
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d33dc2b74cd8e41915b5dbaad0454d
+      internalID: 407763015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_185
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 323
+        width: 288
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ea318e34ccea45ae285247ae78be7
+      internalID: -79658156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_186
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 323
+        width: 72
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bdbf23263522c41bdac99632d10b43
+      internalID: 347948165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_187
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 323
+        width: 101
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9689d16e4b1f07645a5a29ec78432c17
+      internalID: 1203511983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_188
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 324
+        width: 66
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00697340381766e428b3e1300f683335
+      internalID: -316320239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_189
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 355
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd237b131308a6045b62362d6ee35678
+      internalID: 66885349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_190
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 355
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da815e4b683625149b12ed8892ba8d63
+      internalID: -1323552165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_191
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 355
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417a62d16beff9845992924fac62f39d
+      internalID: 853091673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_192
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 293
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856e45a4cf120a44a7c16776c05627c
+      internalID: -1472481469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_193
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 293
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458034cb4f7af445b10abc2fd1418f2
+      internalID: -598531205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_194
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 293
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d5bcc2c7795f448b0101c62bfa78e
+      internalID: -1359005307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_195
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 192
+        width: 72
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101dc927fe35afb4f9bc65cb975b199f
+      internalID: -2019107112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_196
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 192
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd876c872ae27c49b71aa07e767e82c
+      internalID: 1741248895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_197
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 192
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070123f7940e3124891513438ff41ef5
+      internalID: 28870881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_198
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 170
+        width: 156
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10b5ea8d5f9f94b85bb4f3d9b4ea28
+      internalID: -2104608926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_199
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 192
+        width: 57
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b434f7d48664b343b193dce7a8439dc
+      internalID: 548383308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_200
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 170
+        width: 55
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739064a9c234d8409bb00b148386ae6
+      internalID: -1209708619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_201
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 232
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe66f9dd9d7be4ba752b282c49175f
+      internalID: -1764921045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_202
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 232
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d885775c791c934b88e8e5cd362f13e
+      internalID: 1783299850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_203
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 232
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc101896c889142adf93a382f66604
+      internalID: -633376936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_204
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 192
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c97d2ecff41b54f9823256988725b6
+      internalID: 755449397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_205
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 170
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81860651459854e948841dba265257
+      internalID: -1385578906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_206
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 170
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc3716a6f06ce45be272b7f1e3732f
+      internalID: -287296612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_207
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 170
+        width: 19
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a34f3109e626dc4089113e7572dc8a7
+      internalID: 586165296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_208
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 60
+        width: 126
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cdf578ede8f014ab0adb93d80f3247
+      internalID: -615805297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_209
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 60
+        width: 62
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0b2195c38dec4d88e25556a7424b4
+      internalID: -1690014779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_210
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 60
+        width: 51
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb69dea4899fa5439fa9b85765218c2
+      internalID: 656520942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_211
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 60
+        width: 42
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d9937fada005a459efa4bc8224b1d8
+      internalID: 837275092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_212
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 107
+        width: 20
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872278edfa5cb5140b9456b6396aceee
+      internalID: -227312340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_213
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 107
+        width: 81
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7482ebf621f0344a830ba8614871ce
+      internalID: 382501261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform, Items & Obstacles_214
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 107
+        width: 19
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de34394872cc4e4ea7dc99dfd1ccc53
+      internalID: 249264218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PointsDiamond2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4127
+        width: 130
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9a6eca63a244d419dc71d282bc34a0
+      internalID: 2069879191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUp2
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 4120
+        width: 130
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e5d5e81ea6ff4299e201606e7bbbc
+      internalID: -1297297458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Banana: 1218970746
+      HangingSlide1: -119699941
+      HangingSlide2: 688427862
+      Health: 1175068327
+      Health2: -134349469
+      Health3: -547933086
+      Health4: -1487962403
+      HealthUp: 1980735071
+      Help1: -32010749
+      Help2: 584074929
+      Ladder: -187145492
+      LifeUp: 269148165
+      LifeUp2: -1297297458
+      Platform, Items & Obstacles_100: -634243875
+      Platform, Items & Obstacles_101: -1695468178
+      Platform, Items & Obstacles_102: 1815579482
+      Platform, Items & Obstacles_103: -62589054
+      Platform, Items & Obstacles_104: 17935516
+      Platform, Items & Obstacles_105: 1972105719
+      Platform, Items & Obstacles_106: -96688155
+      Platform, Items & Obstacles_107: -1633588081
+      Platform, Items & Obstacles_108: -590894827
+      Platform, Items & Obstacles_109: 579987517
+      Platform, Items & Obstacles_11: 212105755
+      Platform, Items & Obstacles_112: -67200099
+      Platform, Items & Obstacles_113: -1533879414
+      Platform, Items & Obstacles_114: 1201834154
+      Platform, Items & Obstacles_115: -1669856776
+      Platform, Items & Obstacles_116: -575596722
+      Platform, Items & Obstacles_117: -296671385
+      Platform, Items & Obstacles_118: 1171728007
+      Platform, Items & Obstacles_119: -1489943718
+      Platform, Items & Obstacles_12: -619841271
+      Platform, Items & Obstacles_120: -696211049
+      Platform, Items & Obstacles_121: -1634607206
+      Platform, Items & Obstacles_122: -1345131369
+      Platform, Items & Obstacles_123: 1239564829
+      Platform, Items & Obstacles_124: -1791882018
+      Platform, Items & Obstacles_125: -1483295921
+      Platform, Items & Obstacles_126: 1771229205
+      Platform, Items & Obstacles_127: 982418464
+      Platform, Items & Obstacles_128: -950086524
+      Platform, Items & Obstacles_129: 806917007
+      Platform, Items & Obstacles_130: 91329643
+      Platform, Items & Obstacles_131: -1069917938
+      Platform, Items & Obstacles_132: 737661589
+      Platform, Items & Obstacles_133: -1448972958
+      Platform, Items & Obstacles_134: 1060200904
+      Platform, Items & Obstacles_135: -1571967189
+      Platform, Items & Obstacles_136: -2004137204
+      Platform, Items & Obstacles_137: 1054830183
+      Platform, Items & Obstacles_138: 1843447399
+      Platform, Items & Obstacles_139: 746505774
+      Platform, Items & Obstacles_140: -1925461850
+      Platform, Items & Obstacles_141: -985365088
+      Platform, Items & Obstacles_142: -208707895
+      Platform, Items & Obstacles_143: -1761018870
+      Platform, Items & Obstacles_144: 552982657
+      Platform, Items & Obstacles_145: -720093879
+      Platform, Items & Obstacles_146: -1188092128
+      Platform, Items & Obstacles_147: 413957065
+      Platform, Items & Obstacles_148: -333491793
+      Platform, Items & Obstacles_149: -883929734
+      Platform, Items & Obstacles_15: 181215958
+      Platform, Items & Obstacles_150: 1637411170
+      Platform, Items & Obstacles_151: -985168827
+      Platform, Items & Obstacles_152: 492921130
+      Platform, Items & Obstacles_153: -848505734
+      Platform, Items & Obstacles_154: 1133555432
+      Platform, Items & Obstacles_155: 2002367794
+      Platform, Items & Obstacles_156: 717913695
+      Platform, Items & Obstacles_157: -951174379
+      Platform, Items & Obstacles_158: 579723366
+      Platform, Items & Obstacles_159: 337299844
+      Platform, Items & Obstacles_16: -77131422
+      Platform, Items & Obstacles_160: -1979728264
+      Platform, Items & Obstacles_161: -1466893541
+      Platform, Items & Obstacles_162: -688195303
+      Platform, Items & Obstacles_163: -970197155
+      Platform, Items & Obstacles_164: -910626087
+      Platform, Items & Obstacles_165: 620678072
+      Platform, Items & Obstacles_166: 638010003
+      Platform, Items & Obstacles_167: -514303903
+      Platform, Items & Obstacles_168: 42510209
+      Platform, Items & Obstacles_169: -332859359
+      Platform, Items & Obstacles_17: -498926934
+      Platform, Items & Obstacles_170: 439626508
+      Platform, Items & Obstacles_171: 129288147
+      Platform, Items & Obstacles_172: -1683834122
+      Platform, Items & Obstacles_173: -259627047
+      Platform, Items & Obstacles_174: -110207080
+      Platform, Items & Obstacles_175: -1771743288
+      Platform, Items & Obstacles_176: -1419691929
+      Platform, Items & Obstacles_177: 1718222757
+      Platform, Items & Obstacles_178: 1254340256
+      Platform, Items & Obstacles_179: -17528475
+      Platform, Items & Obstacles_18: 960398945
+      Platform, Items & Obstacles_180: -549187260
+      Platform, Items & Obstacles_181: -1627641380
+      Platform, Items & Obstacles_182: -113441304
+      Platform, Items & Obstacles_183: -1568827306
+      Platform, Items & Obstacles_184: 407763015
+      Platform, Items & Obstacles_185: -79658156
+      Platform, Items & Obstacles_186: 347948165
+      Platform, Items & Obstacles_187: 1203511983
+      Platform, Items & Obstacles_188: -316320239
+      Platform, Items & Obstacles_189: 66885349
+      Platform, Items & Obstacles_19: -512376492
+      Platform, Items & Obstacles_190: -1323552165
+      Platform, Items & Obstacles_191: 853091673
+      Platform, Items & Obstacles_192: -1472481469
+      Platform, Items & Obstacles_193: -598531205
+      Platform, Items & Obstacles_194: -1359005307
+      Platform, Items & Obstacles_195: -2019107112
+      Platform, Items & Obstacles_196: 1741248895
+      Platform, Items & Obstacles_197: 28870881
+      Platform, Items & Obstacles_198: -2104608926
+      Platform, Items & Obstacles_199: 548383308
+      Platform, Items & Obstacles_20: -1563808713
+      Platform, Items & Obstacles_200: -1209708619
+      Platform, Items & Obstacles_201: -1764921045
+      Platform, Items & Obstacles_202: 1783299850
+      Platform, Items & Obstacles_203: -633376936
+      Platform, Items & Obstacles_204: 755449397
+      Platform, Items & Obstacles_205: -1385578906
+      Platform, Items & Obstacles_206: -287296612
+      Platform, Items & Obstacles_207: 586165296
+      Platform, Items & Obstacles_208: -615805297
+      Platform, Items & Obstacles_209: -1690014779
+      Platform, Items & Obstacles_21: 2074945031
+      Platform, Items & Obstacles_210: 656520942
+      Platform, Items & Obstacles_211: 837275092
+      Platform, Items & Obstacles_212: -227312340
+      Platform, Items & Obstacles_213: 382501261
+      Platform, Items & Obstacles_214: 249264218
+      Platform, Items & Obstacles_22: -1121964540
+      Platform, Items & Obstacles_23: 845897323
+      Platform, Items & Obstacles_24: -994809711
+      Platform, Items & Obstacles_25: -798166804
+      Platform, Items & Obstacles_26: 1022854813
+      Platform, Items & Obstacles_27: 729457329
+      Platform, Items & Obstacles_28: 192655808
+      Platform, Items & Obstacles_29: -457140356
+      Platform, Items & Obstacles_30: -566181559
+      Platform, Items & Obstacles_32: 1997563941
+      Platform, Items & Obstacles_33: -979281723
+      Platform, Items & Obstacles_34: 1298799761
+      Platform, Items & Obstacles_35: 297024772
+      Platform, Items & Obstacles_36: 1841833703
+      Platform, Items & Obstacles_37: 1956364083
+      Platform, Items & Obstacles_38: -979958536
+      Platform, Items & Obstacles_39: -448664020
+      Platform, Items & Obstacles_40: 312863135
+      Platform, Items & Obstacles_41: 443512478
+      Platform, Items & Obstacles_42: -2110105522
+      Platform, Items & Obstacles_43: 605475017
+      Platform, Items & Obstacles_44: 2143085930
+      Platform, Items & Obstacles_45: -854888636
+      Platform, Items & Obstacles_46: 1722691360
+      Platform, Items & Obstacles_47: -1218400110
+      Platform, Items & Obstacles_49: 1420301160
+      Platform, Items & Obstacles_52: 2138707197
+      Platform, Items & Obstacles_53: -1305669970
+      Platform, Items & Obstacles_54: 1034582031
+      Platform, Items & Obstacles_55: 173093536
+      Platform, Items & Obstacles_56: -447131896
+      Platform, Items & Obstacles_61: 60770272
+      Platform, Items & Obstacles_62: -773625846
+      Platform, Items & Obstacles_63: -2139199026
+      Platform, Items & Obstacles_65: -834459223
+      Platform, Items & Obstacles_66: -1505348469
+      Platform, Items & Obstacles_67: -2065761482
+      Platform, Items & Obstacles_68: -1631138571
+      Platform, Items & Obstacles_69: -311548708
+      Platform, Items & Obstacles_7: 933652613
+      Platform, Items & Obstacles_70: -1428761577
+      Platform, Items & Obstacles_71: 1690708807
+      Platform, Items & Obstacles_72: -2096477827
+      Platform, Items & Obstacles_73: 1732918688
+      Platform, Items & Obstacles_74: -1439130063
+      Platform, Items & Obstacles_75: -1705908815
+      Platform, Items & Obstacles_76: -413825836
+      Platform, Items & Obstacles_77: 1666294580
+      Platform, Items & Obstacles_78: -983058
+      Platform, Items & Obstacles_79: 2032020061
+      Platform, Items & Obstacles_8: 1387767639
+      Platform, Items & Obstacles_80: 1576636637
+      Platform, Items & Obstacles_81: 329991255
+      Platform, Items & Obstacles_82: -509454076
+      Platform, Items & Obstacles_83: -965080991
+      Platform, Items & Obstacles_84: -762303195
+      Platform, Items & Obstacles_85: -1859200019
+      Platform, Items & Obstacles_86: 278737872
+      Platform, Items & Obstacles_87: -1832729198
+      Platform, Items & Obstacles_88: 51000487
+      Platform, Items & Obstacles_89: -184362882
+      Platform, Items & Obstacles_9: -234903975
+      Platform, Items & Obstacles_90: 307610200
+      Platform, Items & Obstacles_91: -1201402038
+      Platform, Items & Obstacles_92: -884653780
+      Platform, Items & Obstacles_93: 262486805
+      Platform, Items & Obstacles_94: 733026760
+      Platform, Items & Obstacles_95: -1280530843
+      Platform, Items & Obstacles_96: -1657838026
+      Platform, Items & Obstacles_97: 2009879562
+      Platform, Items & Obstacles_98: -946469152
+      Platform, Items & Obstacles_99: 985777885
+      Platform1: 1314391775
+      Platform2: -464261057
+      Platform3: -1516068692
+      Platform4: 1353627314
+      Platform5: -1965298267
+      PointsDiamond: -1593746396
+      PointsDiamond2: -1803517950
+      PointsGold: 1166910957
+      Tire1: 1780918549
+      Tire2: 1525632488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

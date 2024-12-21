@@ -1,0 +1,2430 @@
+fileFormatVersion: 2
+guid: 69f6063095dd8254996de62de013c5fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 275
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Intro1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4046
+        width: 339
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539943250af79249931d2d4288bd774
+      internalID: -1794182992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4046
+        width: 401
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27437b378e8de4fa012cbeb295697a
+      internalID: -759937567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4046
+        width: 387
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742a9c97b0fb5db4bb43cafe4e6b3d4c
+      internalID: 924059147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro4
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4046
+        width: 325
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6faa47d7e58ee240906e08122fd3397
+      internalID: 2132807354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro5
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 4046
+        width: 339
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf2a815ee7eea47b808733b5ac977a
+      internalID: 1793622603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro6
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 4046
+        width: 288
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8869354589f3094458f43e483fe0a206
+      internalID: 604457922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_6
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 4380
+        width: 88
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f8f4717f7c2a849a6ece9639cd3c90
+      internalID: -385294419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_7
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 4357
+        width: 88
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1c470012c80b4fa32043b4b5fa614
+      internalID: -154694596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_8
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 4207
+        width: 188
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500e0a7ef1afe3489b2af16346dd441
+      internalID: -498979914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_9
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 4222
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb3fc5f73e05f44b32e49b6809919d
+      internalID: -4664663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_10
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 4031
+        width: 191
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c0aaa8a8203b4f83a0935610802ad
+      internalID: 1803851162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_11
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 4099
+        width: 108
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3945f73936bf4e812723cb87a4b8b
+      internalID: 723347074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_12
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 4033
+        width: 188
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ffb6d81c4f6441b2a5b90a216fcf8
+      internalID: 115217415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_13
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 4074
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859e2e7318f8dd418980f93f6bbce4c
+      internalID: 423177740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3622
+        width: 325
+        height: 352
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd8ac278aec984e91df3ba71e2300b
+      internalID: -1415015584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3624
+        width: 336
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e955c77e8e5c40bacb2cd957d8544
+      internalID: -224353173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3622
+        width: 360
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5e74344602e849aaeb51e39a59d49
+      internalID: 2023855508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3622
+        width: 347
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516306af8506bf1418f87ef1f082b82d
+      internalID: 93082283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_18
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3776
+        width: 208
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfca07f3e72a174c818ef72db2557d9
+      internalID: -1103042025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_19
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 3772
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449c4f71136e4640b6a58b840c96e21
+      internalID: -863989129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_20
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 3758
+        width: 213
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef15f259217ab44f917e219e70546f2
+      internalID: 1682921419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_21
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 3899
+        width: 70
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e3cd948c975c4f9411cb04be6f984
+      internalID: 113341555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_22
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 3947
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34225435f1c0884ab4fd1e11794f058
+      internalID: 45665762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_23
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 3899
+        width: 73
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc0a3e1b5871dd43b73633956234b3e
+      internalID: 1000769328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_24
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 3759
+        width: 112
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc528bb41f74442a469666b0b2ab85
+      internalID: 981352963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_25
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 3873
+        width: 112
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689fa61a2d01b2409581c99fd288ef4
+      internalID: -699406147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_26
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 3873
+        width: 112
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f0ce41b9de894b99f0060b1fc24e2
+      internalID: -1949689521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_27
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 3811
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9208b6a0ed294b828f59a5cdf5a9a
+      internalID: -1723039762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_28
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 3835
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4350d739c931b49b2b596740251e1e
+      internalID: 311752135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_29
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 3840
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a84092bc84291a489cddb816e0f94b2
+      internalID: 1337433439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_30
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 3863
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e831f4953d0941b42a667fbe76d1c7e1
+      internalID: -1664443840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_31
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 3774
+        width: 70
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c3e39657458024fb4d8f08ad73ffd8
+      internalID: -669122233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_32
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 3763
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286c4dcec32a684380abe86ee1650dd
+      internalID: -1198750364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_33
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 3774
+        width: 73
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae59aa1acab52e4483b026cf40e1e41
+      internalID: 119043947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_34
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 3747
+        width: 112
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c540eabee1ea4795032f16424f318
+      internalID: -1438980505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_35
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 3747
+        width: 112
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c432cccd7cd269c48b08b72e682d5562
+      internalID: 909360957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_36
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 3550
+        width: 377
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf91da4ae7674bb4aaa67f77de60c8c8
+      internalID: -1016293939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3200
+        width: 336
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544598d64d082745b4becceff57a6b6
+      internalID: -354293430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3200
+        width: 413
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8161cb16fb84ce48a27ccc272030d8c
+      internalID: -2116730866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3200
+        width: 411
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c9d5392ae90741a59b0d66b3b8dff
+      internalID: 709932687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 3206
+        width: 413
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67654559e704e434b83e8cb0458ef357
+      internalID: -1612476837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk4
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3231
+        width: 413
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d94dc5464e8b86408b54baba046655b
+      internalID: 1757938520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_42
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 3486
+        width: 377
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1c13479fc0c914eb83d7bbb53ede72
+      internalID: 559815465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_43
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 3238
+        width: 187
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87e190c22426c45ba487004c37bd28
+      internalID: -175039521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_44
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 3225
+        width: 215
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a08cca71a67f40957527caa84e8ea
+      internalID: 268385315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_45
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 3363
+        width: 70
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441202f097229a54a90590d48b0321ec
+      internalID: 804285743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_46
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 3413
+        width: 33
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ee5c4352f76004c8650d096a43e433
+      internalID: -2001415659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_47
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 3363
+        width: 71
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a4705e86ee5a49bdad31b3cb3d6ba
+      internalID: 161230161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerProjectile
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 3275
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e29e196241ee47af780f37164b3ce
+      internalID: -1156072407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_49
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 3240
+        width: 83
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f578436ba0360468b95c1804c43660
+      internalID: 2004104628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_50
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3306
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aae7fce5101b247b7bf012e3be292a
+      internalID: 2138771367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_51
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3262
+        width: 90
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56339b6fdf6e8b449e898345212f24c
+      internalID: 833738364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_52
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 3286
+        width: 90
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573391e52038bf541bc84714e27dc296
+      internalID: 2125373056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_53
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 3227
+        width: 33
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921868eafbcf2694e9a34e547efa6788
+      internalID: 2006556011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_54
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 3240
+        width: 71
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7c68c13e71bd439dd3188ffc008a1
+      internalID: 357978727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2642
+        width: 336
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d6e0697133524e8d2eceebff05dfd
+      internalID: -106554848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2627
+        width: 376
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb6eee6d3837740a40852e5422f873
+      internalID: 1529916783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_57
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2901
+        width: 426
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac961b2e07e5ac4e82f29f714a87730
+      internalID: 595440720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch1
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2627
+        width: 362
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6248f7f6716e3f44c83a486aee5d2b61
+      internalID: -1026953477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch2
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2627
+        width: 312
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09774968edb054484deb648680c297
+      internalID: -269627506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchShoot
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2627
+        width: 363
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5be57f4eac8c24383582d9a283ba5e
+      internalID: -2084057741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_61
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2658
+        width: 207
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81feefef22cef344cb5bc157b17bebf2
+      internalID: 2100695309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_62
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 2653
+        width: 191
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844724f3074b9624aa55d5463e859cca
+      internalID: 864154569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_63
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 2640
+        width: 213
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52711c0688715dc4090a3b4867aca06f
+      internalID: -684827657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_64
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2781
+        width: 70
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe2876163e0174e9e3853da1c312e0
+      internalID: 1414714914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_65
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2829
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965da7393f92694a8ee1cdf3e6fbec3
+      internalID: 560409091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_66
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 2781
+        width: 70
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93f5ac7061e4d42801eacf97be7e52
+      internalID: -815135957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_67
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 2693
+        width: 88
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c31da79ab9a2642b1731e55bcb4f22
+      internalID: 1202288036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_68
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 2717
+        width: 46
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a1b43eb2316941b6caa7d2a8db6c2
+      internalID: 2043956991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_69
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2721
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d27260237623734583602e711618a79
+      internalID: 1321468819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_70
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 2691
+        width: 314
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f3bf0bb97a0340a2405d262a1a7f5
+      internalID: -2114743532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_71
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2655
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926fe09fc30f0340a124ca7fe241bcc
+      internalID: 116358100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_72
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2642
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62930f4cc1b16f24aa76f4ddc61f130f
+      internalID: -838351348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_73
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 2655
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee96a9429051b4f93f91fd95c34ea4
+      internalID: -1254448288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpUp
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2045
+        width: 349
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742c06afc16de04996ce4c922a5c09e
+      internalID: -1368194765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDown
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2045
+        width: 339
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57684246cff81c542ae75c96e843f580
+      internalID: 1326861697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_76
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2018
+        width: 350
+        height: 451
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da7662e06bfbb4a9ad30b4eab0db3b
+      internalID: -2045409575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_77
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2045
+        width: 338
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd660811ff29314899697b7a02f3f47
+      internalID: 1356291137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_78
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2031
+        width: 338
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cfeb55346f242448ce56f4af5e54ac
+      internalID: -469814595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motorcycle1
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2106
+        width: 586
+        height: 437
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8054aa1cccf1bf4197c17a7d9d54002
+      internalID: -1785691849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Motorcycle2
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2119
+        width: 587
+        height: 449
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e0bd91939d594c90fbb96c80f617c
+      internalID: 1270962122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpShoot1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1522
+        width: 372
+        height: 437
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a784ab1ba912b2498be05920d1ea42e
+      internalID: 1472316002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hang1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1484
+        width: 288
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bae90233658cb49a3c0c3466be8ec0
+      internalID: -627917028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangShoot1
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1484
+        width: 290
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655947504518f6144b12709f721e3d66
+      internalID: -1418505319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangShoot2
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1484
+        width: 312
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04874d3107e2ce47ba0246a6d50830f
+      internalID: -2036037797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane1
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1658
+        width: 413
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9a725d57e1bd4d907c9351c216293
+      internalID: -404783837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane2
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1647
+        width: 410
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85113694a07173749813195ef0f630ba
+      internalID: -1796449816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plane3
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1634
+        width: 413
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056edb5acf986c49a6692589714cafa
+      internalID: -305261318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_88
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 1746
+        width: 259
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7d0dda10618d4693f4abf1f75d75a
+      internalID: 1918850321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 988
+        width: 285
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3d78ad30ba754582a2026f36a158e
+      internalID: 1677596680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_90
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 988
+        width: 285
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ef9832ebdb7c1478d9b02a6a7e88ab
+      internalID: 725658008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 999
+        width: 376
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe37fc77f93cb46aa283292c76ed36
+      internalID: 1276613505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAmDarkwingDuckText
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1113
+        width: 808
+        height: 459
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3fca9ceeaa2e4e8fe1f61bd979ca4
+      internalID: 1098587516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialogueDuck
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 1174
+        width: 410
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece7929e06820284588f74e025d6f418
+      internalID: -1754830323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAmDarkwingDuck
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 665
+        width: 286
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19910a6f6514d4147ad5cbc309d5661d
+      internalID: -1834114664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_95
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 913
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684910bfeef70d447b51a55ee5f7c51e
+      internalID: 2081113333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_96
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 926
+        width: 86
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459ad09c77b549429ec71b093b1a7f7
+      internalID: -1183434854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_97
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 913
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe700ca233234da4d8bb3ed569110e6f
+      internalID: 617232943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_98
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 803
+        width: 73
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945dd2df734277741a5d8ab2b6998fbb
+      internalID: -1261130604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkwing Duck Animations_99
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 803
+        width: 75
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26d4f4b19acee46949f13fb7efa99c
+      internalID: -968760379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDuck1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 672
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c5bcf0f1203d4287aec092cd612f3
+      internalID: 251900525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDuck2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 93
+        width: 697
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befa388f296618b48ac1a62c08b8dcaa
+      internalID: -10417859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuDuck3
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 93
+        width: 708
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d746a926c87374c4fb538b382a1b21c3
+      internalID: 1142711092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpShoot2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1522
+        width: 372
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef83ba2c44627244b371e67b8876c1f
+      internalID: -488469170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Block1: -224353173
+      Block2: 2023855508
+      Block3: 93082283
+      Crouch1: -1026953477
+      Crouch2: -269627506
+      CrouchShoot: -2084057741
+      Darkwing Duck Animations_0: 1531787548
+      Darkwing Duck Animations_10: 1803851162
+      Darkwing Duck Animations_104: -879155157
+      Darkwing Duck Animations_11: 723347074
+      Darkwing Duck Animations_12: 115217415
+      Darkwing Duck Animations_13: 423177740
+      Darkwing Duck Animations_18: -1103042025
+      Darkwing Duck Animations_19: -863989129
+      Darkwing Duck Animations_20: 1682921419
+      Darkwing Duck Animations_21: 113341555
+      Darkwing Duck Animations_22: 45665762
+      Darkwing Duck Animations_23: 1000769328
+      Darkwing Duck Animations_24: 981352963
+      Darkwing Duck Animations_25: -699406147
+      Darkwing Duck Animations_26: -1949689521
+      Darkwing Duck Animations_27: -1723039762
+      Darkwing Duck Animations_28: 311752135
+      Darkwing Duck Animations_29: 1337433439
+      Darkwing Duck Animations_30: -1664443840
+      Darkwing Duck Animations_31: -669122233
+      Darkwing Duck Animations_32: -1198750364
+      Darkwing Duck Animations_33: 119043947
+      Darkwing Duck Animations_34: -1438980505
+      Darkwing Duck Animations_35: 909360957
+      Darkwing Duck Animations_36: -1016293939
+      Darkwing Duck Animations_42: 559815465
+      Darkwing Duck Animations_43: -175039521
+      Darkwing Duck Animations_44: 268385315
+      Darkwing Duck Animations_45: 804285743
+      Darkwing Duck Animations_46: -2001415659
+      Darkwing Duck Animations_47: 161230161
+      Darkwing Duck Animations_49: 2004104628
+      Darkwing Duck Animations_50: 2138771367
+      Darkwing Duck Animations_51: 833738364
+      Darkwing Duck Animations_52: 2125373056
+      Darkwing Duck Animations_53: 2006556011
+      Darkwing Duck Animations_54: 357978727
+      Darkwing Duck Animations_57: 595440720
+      Darkwing Duck Animations_6: -385294419
+      Darkwing Duck Animations_61: 2100695309
+      Darkwing Duck Animations_62: 864154569
+      Darkwing Duck Animations_63: -684827657
+      Darkwing Duck Animations_64: 1414714914
+      Darkwing Duck Animations_65: 560409091
+      Darkwing Duck Animations_66: -815135957
+      Darkwing Duck Animations_67: 1202288036
+      Darkwing Duck Animations_68: 2043956991
+      Darkwing Duck Animations_69: 1321468819
+      Darkwing Duck Animations_7: -154694596
+      Darkwing Duck Animations_70: -2114743532
+      Darkwing Duck Animations_71: 116358100
+      Darkwing Duck Animations_72: -838351348
+      Darkwing Duck Animations_73: -1254448288
+      Darkwing Duck Animations_76: -2045409575
+      Darkwing Duck Animations_77: 1356291137
+      Darkwing Duck Animations_78: -469814595
+      Darkwing Duck Animations_8: -498979914
+      Darkwing Duck Animations_88: 1918850321
+      Darkwing Duck Animations_89: 1677596680
+      Darkwing Duck Animations_9: -4664663
+      Darkwing Duck Animations_90: 725658008
+      Darkwing Duck Animations_95: 2081113333
+      Darkwing Duck Animations_96: -1183434854
+      Darkwing Duck Animations_97: 617232943
+      Darkwing Duck Animations_98: -1261130604
+      Darkwing Duck Animations_99: -968760379
+      Death: 1276613505
+      DialogueDuck: -1754830323
+      Hang1: -627917028
+      HangShoot1: -1418505319
+      HangShoot2: -2036037797
+      IAmDarkwingDuck: -1834114664
+      IAmDarkwingDuckText: 1098587516
+      Idle: -1415015584
+      Idle2: -354293430
+      Intro1: -1794182992
+      Intro2: -759937567
+      Intro3: 924059147
+      Intro4: 2132807354
+      Intro5: 1793622603
+      Intro6: 604457922
+      JumpDown: 1326861697
+      JumpShoot1: 1472316002
+      JumpShoot2: -488469170
+      JumpUp: -1368194765
+      MenuDuck1: 251900525
+      MenuDuck2: -10417859
+      MenuDuck3: 1142711092
+      Motorcycle1: -1785691849
+      Motorcycle2: 1270962122
+      Plane1: -404783837
+      Plane2: -1796449816
+      Plane3: -305261318
+      PlayerProjectile: -1156072407
+      Shoot1: -106554848
+      Shoot2: 1529916783
+      Walk1: -2116730866
+      Walk2: 709932687
+      Walk3: -1612476837
+      Walk4: 1757938520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

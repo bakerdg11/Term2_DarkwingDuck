@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 680f9601c8c21b14f882dfc55166e2ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {instanceID: 0}
+  - Title: {fileID: 8300000, guid: 63c7ff4a5b2b4c343ae2fdac41404bb4, type: 3}
+  - Level: {fileID: 8300000, guid: 279cdfba011d5aa4b988860428fe5c23, type: 3}
+  - GameOver: {fileID: 8300000, guid: 4e7035f216b8bf4468b6d9b67cba248f, type: 3}
+  - StageClear: {fileID: 8300000, guid: b8719241aa054ac449a496005ca9a565, type: 3}
+  - playButton: {instanceID: 0}
+  - settingsButton: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - quitButton: {instanceID: 0}
+  - resumeButton: {instanceID: 0}
+  - returnToMenuButton: {instanceID: 0}
+  - playAgainButton: {instanceID: 0}
+  - mainMenu: {instanceID: 0}
+  - settingsMenu: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - masterVolSliderText: {instanceID: 0}
+  - musicVolSliderText: {instanceID: 0}
+  - sfxVolSliderText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - masterVolSlider: {instanceID: 0}
+  - musicVolSlider: {instanceID: 0}
+  - sfxVolSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
